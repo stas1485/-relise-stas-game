@@ -41,23 +41,39 @@ iframe{
 footer {
       display: flex;
       justify-content: space-between;
-      background: #141414;
+       background-image:linear-gradient(to top,#A600FF,#4ACCFF) ;
       padding: 20px;
       flex-wrap: wrap;
      position:absolute;
      top:150%;
     width: 100%;
     }
-    footer img {
-      width: 120px;
-    }
+    
+    footer img{
+      width: 50px;
+    }  
+    
     footer h3 {
       margin-bottom: 10px;
-      color: #e50914;
+      color: white;
     }
     footer h4 {
       margin: 5px 0;
       font-weight: normal;
-      color: #bbb;
+      color: white;
       cursor: pointer;
     }
+
+    footer p{
+      color: white;
+
+    }
+
+    footer a{
+      text-decoration: none;
+      color: white;
+    }
+
+ 
+
+    
