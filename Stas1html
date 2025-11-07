@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title>Ігри які я можу порекомендувати</title>
+        <link rel="stylesheet" href="stas.css">
+    </head>
+
+    <body>
+        <header>
+            <div>
+                <h1>Ігри які я можу порекомендувати</h1>
+            </div>
+        </header>
+        <main>
+            <div class="igru">
+             <section class="games">
+            <div class="game-card">
+                <img src="https://cdn.pixabay.com/photo/2013/07/12/19/25/minecraft-154749_1280.png" alt="Гра 1">
+                <h2>Minecraft</h2>
+                <p>Ця гра вона можна сказати легендарна вона подарувала мені дитинство і не тільки мені а й людям яким вже більше вісімнадцяти років.А детальніше про неї дізнайтеся по кнопці знизу</p>
+                <a href="#" class="btn">Детальніше</a>
+            </div>
+
+            <div class="game-card">
+                <img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/e/e/0eeeb19633422b1241f4306419a0f15f39d58de9.png" alt="Гра 2">
+                <h2>Roblox</h2>
+                <p>Roblox це гра яку знає кожен, можна рахувати що це навіть не гра а просто платформа для створення ігор але ти можеш пограти в різні проєкти інших гравців.Про Roblox знизу</p>
+                <a href="#" class="btn">Детальніше</a>
+            </div>
+            <div class="game-card">
+                <img src="https://play-lh.googleusercontent.com/VpkJWQz29nbSEVuH6mIdr276haxxbWMwKNGckPBsd6w8nvndewAg9f-xFvT9em1Wgs0e" alt="Гра 1">
+                <h2>Flexicx</h2>
+                <p>Це не дуже популярна гра а ле я її люблю за те ща в ній реалістична фізика деформування авто і ти там можеш робити що завгодно.А Детальніше про цю гру знизу</p>
+                <a href="#" class="btn">Детальніше</a>
+            </div>
+
+            <div class="game-card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV3RdwffSznSB6b5vwtypchBsEFuMhSjKyA&s" alt="Гра 2">
+                <h2>Brawl Stars</h2>
+                <p>Brawl Stars це гра яку грає не один мільйон гравців там є гарні події що місяця там легко отримати нових персонажів.Детальніше по кнопці знизу</p>
+                <a href="#" class="btn">Детальніше</a>
+            </div>
+
+        </section>
+             <h1>Чому я хочу порекомендувати ці
+                  ігри?В деякі з них граю багато років
+                    або місяців.Тому  в багатьох іграх дуже 
+                         прокачаний    </h1>
+            </div>
+            <div class="de">
+                <h1> Де нас знайти</h1>
+            </div>
+           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49963.66927226848!2d25.85338960813026!3d48.286642710134814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47340f537d77bb2f%3A0x59c2bd4dd893aaa4!2sLogika!5e1!3m2!1sru!2sua!4v1760115077279!5m2!1sru!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            
+            
+        </main>
+
+        <footer>
+            <div>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="Telegram">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Instagram-Logo-Round-Color.png">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/250px-Facebook_Logo_%282019%29.png">
+            </div>
+
+            
+            <div class="infa">
+                <h3>Корисна інформація</h3>
+                <h4>Питання-відповідь</h4>
+                <h4>Всі ігри знизу</h4>
+                <h4>Roblox</h4>
+                <h4>Flexicx</h4>
+                <h4>Brawl stars</h4>
+                <h4>Minecraft</h4>
+                <h4>Конфідеційність</h4>
+                <h4>Наші контакти</h4>
+                
+            </div>
+
+            <div class="contacts">
+                <h3>Контакти</h3>
+                <p>📞 Телефон: +38 (294) 089-13-86</p>
+                <p>📧 Email: stanislav@gmail.</p>
+                <p>📍 Адреса: м. Чернівці, вул. , </p>
+                <p>Ми в соцмережах:</p>
+                <a href="#">Facebook</a> | 
+                <a href="#">Instagram</a> | 
+                <a href="#">Telegram</a>
+            </div>
+        </footer>
+    </body>
+</html>
